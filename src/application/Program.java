@@ -13,8 +13,6 @@ public class Program {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
-		ChessMatch chassMatch = new ChessMatch();
-
 		ChessMatch chessMatch = new ChessMatch();
 		
 		while(true) {
